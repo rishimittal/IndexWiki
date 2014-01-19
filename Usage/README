@@ -1,0 +1,18 @@
+
+
+			-----------------------------------------------------------------------------------
+
+								README
+		
+			------------------------------------------------------------------------------------
+
+
+How to use :
+
+1. For Indexing
+
+	sudo sh index.sh <absolute path of the Corpus> <absolute path of the index folder>
+
+2. For Searching
+
+	sudo sh query.sh <absolute path of the index folder>

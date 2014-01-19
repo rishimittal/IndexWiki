@@ -12,6 +12,14 @@ Key Points :
 	
 1. Uses External merging for the merging the sorted files
 2. In searching module uses the .01 secs to search in the index of
-   17 Mb. It also depends on the system configuration.
+   17 Mb. It also depends on the system configuration.(Uses basic
+   binary search in files)
+3. Currently it does not categorize in the different fields but it
+   realises all the keywords and index them accordingly.
+4. Uses standard porter stemming algorithm
+5. Basic StopWord List , which is set up there in the StopWordHandle 
+   class.
 
+
+Please comment if you found any issue with the application.
 
