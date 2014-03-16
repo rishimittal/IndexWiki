@@ -1,7 +1,7 @@
 IndexWiki
 =========
 
-IndexWiki is the scalable IRE system capable of indexing 100Mb of data in 
+IndexWiki is the scalable IRE system capable of indexing 100Mb of Wikipedia data in 
 about 14-15 secs ,this is complete project with minimum machine requirement.
 It internally performs the external merging , It almost creates 100-200 sorted
 files depending upon the size of the of the Corpus. Here ideally it has the 
